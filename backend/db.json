@@ -1,0 +1,21 @@
+{
+    "produtos": [
+        {
+        "id": 1,
+        "nome": "Caneta BIC",
+        "preco": 1.99
+        },
+
+        {
+        "id": 2,
+        "nome": "Notebook Ibyte Fly 2",
+        "preco": 1499.90
+        },
+
+        {
+        "id": 3,
+        "nome": "Caderno Tilibra",
+        "preco": 10.99
+        }
+    ]
+}
